@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/stanislav-sutulo-708975228/" target="_blank">Stas</a> 
 
 
-<h3 align="center">Radioelectronics data protection student in BSUIR</h3><br><br>
+<h3 align="center">Radioelectronic data protection student in BSUIR</h3><br><br>
 
  🌱 I’m currently learning and familiar to:
 <!--
