@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/stanislav-sutulo-708975228/" target="_blank">Stas</a> 
 
 <!--
 **ktago336/ktago336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
