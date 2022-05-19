@@ -3,7 +3,7 @@
 
 <h3 align="center">Radioelectronic data protection student in BSUIR</h3><br><br>
 
- 🌱 I’m currently learning and familiar to:
+  I’m currently learning:
 <!--
 Here are some ideas to get you started:
 
@@ -18,8 +18,15 @@ Here are some ideas to get you started:
 -->
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ <br>Using:<br>
+ ![VirtualBox](https://a11ybadges.com/badge?logo=virtualbox)
+ ![Visual Studio](https://a11ybadges.com/badge?logo=visualstudio)
+ <br>OS:<br>
+ ![Windows](https://a11ybadges.com/badge?logo=windows)
+ ![Debian](https://a11ybadges.com/badge?logo=debian)
  <br><br>
- 📫 How to reach me: <br><a href="https://www.linkedin.com/in/stanislav-sutulo-708975228/" target="_blank">LinkedIn</a>
+  How to reach me: <br><a href="https://www.linkedin.com/in/stanislav-sutulo-708975228/" target="_blank">LinkedIn</a>
   <br><a href="https://t.me/Ktg336" target="_blank">Telegram</a>
   <br>
   <h3 align="center">I'm open to suggestions and ready to collaborate</h3><br><br>
