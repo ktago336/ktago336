@@ -3,7 +3,7 @@
 
 <h3 align="center">Radioelectronic data protection student in BSUIR</h3><br><br>
 
-  I’m currently learning:
+  Stack:
 <!--
 Here are some ideas to get you started:
 
@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 -->
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)\
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  <br>Using:<br>
  ![VirtualBox](https://a11ybadges.com/badge?logo=virtualbox)
