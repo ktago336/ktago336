@@ -33,5 +33,6 @@ Here are some ideas to get you started:
  <br><br>
   How to reach me: <br><a href="https://www.linkedin.com/in/stanislav-sutulo-708975228/" target="_blank">LinkedIn</a>
   <br><a href="https://t.me/Ktg336" target="_blank">Telegram</a>
+  <br><a href="mailto:stas.sutulo@gmail.com">Gmail</a>
   <br>
   <h3 align="center">I'm open to suggestions and ready to collaborate</h3><br><br>
