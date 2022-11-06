@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- <br>Using:<br>
+
  ![VirtualBox](https://a11ybadges.com/badge?logo=virtualbox)
  ![Visual Studio](https://a11ybadges.com/badge?logo=visualstudio)
- <br>OS:<br>
+ OS:
  ![Windows](https://a11ybadges.com/badge?logo=windows)
  ![Debian](https://a11ybadges.com/badge?logo=debian)
  <br><br>
