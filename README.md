@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
  ![VirtualBox](https://a11ybadges.com/badge?logo=virtualbox)
  ![Visual Studio](https://a11ybadges.com/badge?logo=visualstudio)
- OS:
+ <br>OS:<br>
  ![Windows](https://a11ybadges.com/badge?logo=windows)
  ![Debian](https://a11ybadges.com/badge?logo=debian)
  <br><br>
