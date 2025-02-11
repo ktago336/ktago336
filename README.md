@@ -1,7 +1,7 @@
 <h1 align="center"> <a href="https://www.linkedin.com/in/stanislav-sutulo-708975228/" target="_blank">Ktago336</a> 
 
 
-  <h3 align="center">BSUIR student</h3><br><a href='https://github.com/ktago336/resume'>My CV</a><br><br>
+  <h3 align="center">Software engineer</h3><br><a href='https://github.com/ktago336/resume'>My CV</a><br><br>
 
   Stack:
 <!--
